@@ -8,12 +8,6 @@
 >  A machine learning web application that predicts final student grades and identifies at-risk students early using academic, behavioral, and demographic data.
 ---
 
-## 🌐 Live Demo
-
-**Try the App Here:**
- https://arunodiaal-student-performance-prediction-system-app-hhijbu.streamlit.app/
-
-
 ## 📌 Problem Statement
 
 Educational institutions need smarter ways to:
